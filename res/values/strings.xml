@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyCamera</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="alert_text">Camera is in use or does not exist</string>
+
+</resources>
